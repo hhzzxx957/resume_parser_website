@@ -14,7 +14,7 @@ idna==2.10
 IMAPClient==2.1.0
 isort==4.3.21
 lazy-object-proxy==1.4.3
-lxml==4.5.2
+lxml==4.9.1
 mccabe==0.6.1
 murmurhash==1.0.2
 numpy==1.19.0
